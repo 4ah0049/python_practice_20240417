@@ -5,4 +5,6 @@ matplotlib
 numpy
 pandas
 openpyxl
+pandas-datareader
+yfinance
 #需要安裝的內容外部套件都放在這邊,以後人家來開我們的檔案就知道我們有用甚麼外部套件
